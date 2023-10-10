@@ -1,0 +1,18 @@
+.chat {
+    margin-top: 10rem;
+}
+
+.navbar-brand {
+    font-weight: bolder;
+    margin-left: 50px;
+}
+
+div.chat-content {
+    border-radius: .25rem;
+    height: 25rem;
+    margin-bottom: 2rem;
+}
+
+.card {
+    height: 80%;
+}
